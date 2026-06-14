@@ -1,0 +1,38 @@
+[
+  {
+    "nama": "asthatv",
+    "link": "https://hgmtv.com:19360/asthatv/1080p.m3u8"
+  },
+  {
+    "nama": "ammedia",
+    "link": "https://ammedia.siar.us/ammedia/live/ammedia_480p.m3u8"
+  },
+  {
+    "nama": "Allegro",
+    "link": "https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/index-f4-v1-a1.m3u8"
+  },
+  {
+    "nama": "Angel TV Indonesia",
+    "link": "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/chunklist_b2000000.m3u8"
+  },
+  {
+    "nama": "Ananda",
+    "link": "https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/index-f1-v1-a1.m3u8"
+  },
+  {
+    "nama": "Banjar TV",
+    "link": "https://banjartv.siar.us/banjartv/live/playlist.m3u8"
+  },
+  {
+    "nama": "Banten TV",
+    "link": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w970127049.m3u8"
+  },
+  {
+    "nama": "BeritaSatu",
+    "link": "https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu_uhd/index.m3u8"
+  },
+  {
+    "nama": "BMS TV",
+    "link": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/chunklist_w1707508767.m3u8"
+  }
+]
