@@ -1,9 +1,46 @@
-{"nama":"asthatv","link":"https://hgmtv.com:19360/asthatv/1080p.m3u8"}
-{"nama":"ammedia","link":"https://ammedia.siar.us/ammedia/live/ammedia_480p.m3u8"}
-{"nama":"Allegro","link":"https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/index-f4-v1-a1.m3u8"}
-{"nama":"Angel TV Indonesia","link":"https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/chunklist_b2000000.m3u8"}
-{"nama":"Ananda","link":"https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/index-f1-v1-a1.m3u8"}
-{"nama":"Banjar TV","link":"https://banjartv.siar.us/banjartv/live/playlist.m3u8"}
-{"nama":"Banten TV","link":"https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w970127049.m3u8"}
-{"nama":"BeritaSatu","link":"https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu_uhd/index.m3u8"}
-{"nama":"BMS TV","link":"https://5bf7b725107e5.streamlock.net/bmstv/bmstv/chunklist_w1707508767.m3u8"}
+{
+  "schema": "2.0",
+  "encrypted": true,
+  "genre": "TV",
+  "total": 9,
+  "data": [
+    {
+      "NAMAE": "U0ZEXFBNTw==",
+      "LINK": "WkFEREIDFhpaUl1ARxdaWl8PAQ0CDwkaU0ZEXFBNTxoDBQgEQRdUBkcN"
+    },
+    {
+      "NAMAE": "U1hdUVVQWA==",
+      "LINK": "WkFEREIDFhpTWF1RVVBYG0FcUUYfTEoaU1hdUVVQWBpeXEZRHlhUWFdRWVVuDQEFQhtdB0QB"
+    },
+    {
+      "NAMAE": "c1lcUVZLVg==",
+      "LINK": "WkFEREIDFhpEWlRXVVcXV1NYUlteFFpZXUBUGlJWVBpeXEZRWVVKGgQNUwEDDFwEAgMDBAUNDAYLVwANUgsMBh1cXlBUQRRTBhhGBRxYCBtfBkUM"
+    },
+    {
+      "NAMAE": "c1tXUV0ZbWMSfF5QXldcRltU",
+      "LINK": "WkFEREIDFhpYVF5NUBRdXFVcXV1JF1heU1hRXUtcXRtcUEQbR15VXERQHUdaFAsGBgMBAh5QV1FdW1VHWFgWW1VHQA5QV15QXlxeUF5XXEZbVG9VXVUWVlpAXl9dUEpBbVcCBAEJCQUCG10HRAE="
+    },
+    {
+      "NAMAE": "c1tRWlVY",
+      "LINK": "WkFEREIDFhpEWlRXVVcXV1NYUlteFFpZXUBUGlJWVBpeXEZRWVVKGgQNVVIJDwoHAgMDBAUNDVcDUwcNBwEOAB1cXlBUQRRTAxhGBRxYCBtfBkUM"
+    },
+    {
+      "NAMAE": "cFReXlBLGWFk",
+      "LINK": "WkFEREIDFhpQVF5eUEtNQxxGWVVDF0xGHVdRWltYS0FEGlxdR1wWRV5USVhYSk0bXwZFDA=="
+    },
+    {
+      "NAMAE": "cFReQFRXGWFk",
+      "LINK": "WkFEREIDFhoHV1YDUw4LAAMFB1EEF0pBQFBRWV1WWl4cW1VAHltYW0ZQXkBHFltUXEFVWkVPFlZaQF5fXVBKQW1CCQMBCAsCAgEJGlwKTA0="
+    },
+    {
+      "NAMAE": "cFBCXUVYalRGQA==",
+      "LINK": "WkFEREIDFhpKQVRHXVtWRUJeW0IcSUxZXhtSRFxcXVxTWVlCVBdaWl8aXF1HXBZXV0dZQFBKWEFHakVcVRZQW1ZQSBpcCkwN"
+    },
+    {
+      "NAMAE": "cHhjFGVv",
+      "LINK": "WkFEREIDFhoHV1YDUw4LAAMFB1EEF0pBQFBRWV1WWl4cW1VAHltURkZDH1ZcSk1DHVZYQV9SVVxBQW9DAA4JAgcFCAMHDhdYAUAI"
+    }
+  ],
+  "lastSync": "2026-06-14T09:16:52.381Z",
+  "note": ""
+}
