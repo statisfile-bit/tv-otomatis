@@ -2,7 +2,7 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "TV",
-  "total": 9,
+  "total": 10,
   "data": [
     {
       "NAMAE": "U0ZEXFBNTw==",
@@ -39,8 +39,12 @@
     {
       "NAMAE": "cHhjFGVv",
       "LINK": "WkFEREIDFhoHV1YDUw4LAAMFB1EEF0pBQFBRWV1WWl4cW1VAHltURkZDH1ZcSk1DHVZYQV9SVVxBQW9DAA4JAgcFCAMHDhdYAUAI"
+    },
+    {
+      "NAMAE": "cGdkYg==",
+      "LINK": "WkFEREIDFhoHV1YDUw4LAAMFB1EEF0pBQFBRWV1WWl4cW1VAHltLQUQaUkZFTxZWWkBeX11QSkFtQggFAgoIBwUNHlkCTAE="
     }
   ],
-  "lastSync": "2026-06-14T09:21:21.320Z",
+  "lastSync": "2026-06-28T14:03:04.470Z",
   "note": ""
 }
